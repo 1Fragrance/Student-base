@@ -1,0 +1,54 @@
+﻿<Window
+    x:Class="StudentsBase.StudentInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:StudentsBase"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="StudentInfo"
+    Width="400"
+    Height="450"
+    Background="#008B8B"
+    KeyUp="Window_KeyUp"
+    ResizeMode="NoResize">
+    <Border Padding="10">
+        <Grid>
+            <Frame Name="newInfo" NavigationUIVisibility="Hidden" />
+            <StackPanel Margin="0,0,180,0">
+                <Grid Height="115" Margin="0,280">
+                    <Button
+                        Name="Prev"
+                        Width="85"
+                        Height="30"
+                        Margin="0,21,100,64"
+                        HorizontalAlignment="Right"
+                        Click="Prev_Click"
+                        Content="Prev Student" />
+                    <Button
+                        Name="Last"
+                        Width="85"
+                        Height="30"
+                        Margin="0,63,5,5"
+                        HorizontalAlignment="Right"
+                        Click="Last_Click"
+                        Content="Last Student" />
+                    <Button
+                        Name="Next"
+                        Width="85"
+                        Height="30"
+                        Margin="0,21,5,64"
+                        HorizontalAlignment="Right"
+                        Click="Button_Click"
+                        Content="Next Student" />
+                    <Button
+                        Name="First"
+                        Width="85"
+                        Height="30"
+                        Margin="0,72,100,13"
+                        HorizontalAlignment="Right"
+                        Click="First_Click"
+                        Content="First Student" />
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

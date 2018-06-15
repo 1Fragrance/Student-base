@@ -1,0 +1,52 @@
+﻿<Window
+    x:Class="StudentsBase.GroupInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:StudentsBase"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="GroupsInfo"
+    Width="400"
+    Height="550"
+    Background="#EECFA1"
+    Closed="Window_Closed"
+    KeyUp="Window_KeyUp"
+    ResizeMode="NoResize">
+    <Border Padding="10">
+        <Grid>
+            <Frame Name="newInfo" NavigationUIVisibility="Hidden" />
+            <StackPanel>
+                <Grid Height="115" Margin="0,380">
+                    <Button
+                        Name="Prev"
+                        Width="132"
+                        Margin="0,10,211,64"
+                        HorizontalAlignment="Right"
+                        Click="Prev_Click"
+                        Content="Prev Group" />
+                    <Button
+                        Name="Last"
+                        Width="141"
+                        Margin="0,62,21,10"
+                        HorizontalAlignment="Right"
+                        Click="Last_Click"
+                        Content="Last Group" />
+                    <Button
+                        Name="Next"
+                        Width="141"
+                        Margin="0,10,21,64"
+                        HorizontalAlignment="Right"
+                        Click="Next_Click"
+                        Content="Next Group" />
+                    <Button
+                        Name="First"
+                        Width="132"
+                        Margin="0,62,211,10"
+                        HorizontalAlignment="Right"
+                        Click="First_Click"
+                        Content="First Group" />
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Border>
+
+</Window>

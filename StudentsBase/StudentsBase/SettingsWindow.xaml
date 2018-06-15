@@ -1,0 +1,124 @@
+﻿<Window
+    x:Class="StudentsBase.SettingsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Plugins"
+    Width="352.041"
+    Height="401.02"
+    Background="LightSlateGray"
+    KeyUp="Window_KeyUp"
+    ResizeMode="NoResize"
+    mc:Ignorable="d">
+    <Border Padding="10">
+        <StackPanel>
+            <TextBlock
+                Margin="0,5"
+                HorizontalAlignment="Center"
+                FontSize=" 15"
+                Foreground="#FFF0EBE8"
+                Text="Hotkey Settings:"
+                TextWrapping="Wrap" />
+            <Grid>
+                <StackPanel Height="280" Margin="0,0,158,0">
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="New File Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Open File Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Save File Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Close Window Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Plugins Menu Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Run Plugins Hotkey:" />
+                    <TextBlock
+                        Margin="6,5"
+                        FontSize=" 15"
+                        Foreground="#FFF0EBE8"
+                        Text="Settings Hotkey:" />
+
+                </StackPanel>
+                <StackPanel Name="Field" Margin="173,0,0,0">
+                    <TextBox
+                        x:Name="NewFileBox"
+                        Width="136"
+                        Margin="6,9"
+                        HorizontalAlignment="Center"
+                        KeyUp="NewFileBox_KeyUp" />
+                    <TextBox
+                        x:Name="OpenFileBox"
+                        Width="136"
+                        Margin="6,3"
+                        HorizontalAlignment="Center"
+                        KeyUp="OpenFileBox_KeyUp" />
+                    <TextBox
+                        x:Name="SaveFileBox"
+                        Width="136"
+                        Margin="6,8"
+                        HorizontalAlignment="Center"
+                        KeyUp="SaveFileBox_KeyUp" />
+                    <TextBox
+                        x:Name="CloseBox"
+                        Width="136"
+                        Margin="6,4"
+                        HorizontalAlignment="Center"
+                        KeyUp="CloseBox_KeyUp" />
+                    <TextBox
+                        x:Name="PluginsMenuBox"
+                        Width="136"
+                        Margin="6,8"
+                        HorizontalAlignment="Center"
+                        KeyUp="PluginsMenuBox_KeyUp" />
+                    <TextBox
+                        x:Name="RunPluginsBox"
+                        Width="136"
+                        Margin="6,4"
+                        HorizontalAlignment="Center"
+                        KeyUp="RunPluginsBox_KeyUp" />
+                    <TextBox
+                        x:Name="SettingsBox"
+                        Width="136"
+                        Margin="6,9"
+                        HorizontalAlignment="Center"
+                        KeyUp="SettingsBox_KeyUp" />
+
+                </StackPanel>
+            </Grid>
+            <Grid Height="35">
+                <Button
+                    Name="SaveSettings"
+                    Margin="0,0,200,0"
+                    Click="SaveSettings_Click"
+                    Content="Save Settings" />
+
+                <Button
+                    Name="DefaultSettings"
+                    Margin="200,0,0,0"
+                    Click="DefaultSettings_Click"
+                    Content="Default Settings" />
+            </Grid>
+        </StackPanel>
+
+    </Border>
+</Window>

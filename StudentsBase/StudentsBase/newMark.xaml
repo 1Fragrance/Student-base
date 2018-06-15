@@ -1,0 +1,52 @@
+﻿<Window
+    x:Class="StudentsBase.newMark"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:StudentsBase"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Add Mark"
+    Width="200"
+    Height="200"
+    Background="#008B8B"
+    KeyUp="Window_KeyUp"
+    ResizeMode="NoResize">
+    <Border Padding="10">
+        <StackPanel>
+            <TextBlock
+                Margin="0,5"
+                HorizontalAlignment="Center"
+                FontSize=" 12"
+                Foreground="#FFF0EBE8"
+                Text="Subject:"
+                TextWrapping="Wrap" />
+            <TextBox
+                Name="SubjectField"
+                Width="136"
+                HorizontalAlignment="Center"
+                PreviewTextInput="SubjectField_PreviewTextInput"
+                TextWrapping="Wrap" />
+            <TextBlock
+                Margin="6,5"
+                HorizontalAlignment="Center"
+                FontSize=" 12"
+                Foreground="#FFF0EBE8"
+                Text="Mark: "
+                TextWrapping="Wrap" />
+            <TextBox
+                Name="MarkField"
+                Width="136"
+                HorizontalAlignment="Center"
+                PreviewTextInput="MarkField_PreviewTextInput"
+                TextWrapping="Wrap" />
+            <Button
+                Width="70"
+                Height="20"
+                Margin="0,10"
+                HorizontalAlignment="Center"
+                Click="Button_Click"
+                Content="Add" />
+
+        </StackPanel>
+    </Border>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\Bekwa\Desktop\plugin3\plugin3\bin\Debug\plugin3.dll
+C:\Users\Bekwa\Desktop\plugin3\plugin3\bin\Debug\plugin3.pdb
+C:\Users\Bekwa\Desktop\plugin3\plugin3\obj\Debug\plugin3.csprojResolveAssemblyReference.cache
+C:\Users\Bekwa\Desktop\plugin3\plugin3\obj\Debug\plugin3.csproj.CoreCompileInputs.cache
+C:\Users\Bekwa\Desktop\plugin3\plugin3\obj\Debug\plugin3.dll
+C:\Users\Bekwa\Desktop\plugin3\plugin3\obj\Debug\plugin3.pdb

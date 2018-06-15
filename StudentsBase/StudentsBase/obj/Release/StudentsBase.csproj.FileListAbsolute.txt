@@ -1,0 +1,52 @@
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Release\StudentsBase.exe.config
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Release\StudentsBase.exe
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Release\StudentsBase.pdb
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\GroupsWindow.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\MainMenu.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsWindow.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\App.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase_MarkupCompile.cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase_MarkupCompile.lref
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\GroupsWindow.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\MainMenu.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsWindow.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.g.resources
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.Properties.Resources.resources
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.csproj.GenerateResource.Cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.csproj.CoreCompileInputs.cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.exe
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Release\StudentsBase.pdb
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Release\StudentsBase.exe
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Release\StudentsBase.pdb
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Release\Library.dll
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Release\System.IO.Compression.dll
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupsWindow.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\MainMenu.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\Plugins.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsWindow.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupInfo.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupInfoPage.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupsWindow.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\MainMenu.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\newMark.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\newSubject.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\Plugins.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentInfo.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentInfoPage.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsWindow.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\App.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase_MarkupCompile.cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase_MarkupCompile.lref
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupInfo.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\GroupInfoPage.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\newMark.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\newSubject.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentInfo.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentInfoPage.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.g.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.Properties.Resources.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.StudentsBaseResources.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.csproj.GenerateResource.Cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.csproj.CoreCompileInputs.cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.exe
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Release\StudentsBase.pdb

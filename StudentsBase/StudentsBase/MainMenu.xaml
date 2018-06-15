@@ -1,0 +1,240 @@
+﻿<Window
+    x:Class="StudentsBase.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Students"
+    Width="361.638"
+    Height="426.724"
+    Background="#FF265378"
+    Closed="Window_Closed"
+    ResizeMode="NoResize">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="brush" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Offset="0" Color="#FF1DFFE0" />
+            <GradientStop Offset="1" Color="#FF43397E" />
+        </LinearGradientBrush>
+        <Style TargetType="Button">
+            <Setter Property="Button.FontSize" Value="16" />
+            <Setter Property="Button.Background" Value="{StaticResource brush}" />
+            <Setter Property="Button.Height" Value="80" />
+            <Setter Property="Button.Width" Value="250" />
+            <Setter Property="Button.VerticalAlignment" Value="Center" />
+            <Setter Property="Button.HorizontalAlignment" Value="Center" />
+            <Setter Property="Foreground" Value="#7FFFFFFF" />
+            <Setter Property="FontWeight" Value="Bold" />
+
+        </Style>
+
+
+        <PathGeometry x:Key="myPath1">
+            <PathFigure IsClosed="True" StartPoint="80, 315">
+                <ArcSegment Point="20,315" Size="20,20" />
+                <ArcSegment Point="80,315" Size="20,20" />
+            </PathFigure>
+        </PathGeometry>
+
+        <PathGeometry x:Key="myPath2">
+            <PathFigure IsClosed="True" StartPoint="295, 315">
+                <ArcSegment Point="240,315" Size="20,20" />
+                <ArcSegment Point="295,315" Size="20,20" />
+            </PathFigure>
+        </PathGeometry>
+
+    </Window.Resources>
+    <Canvas Name="cnvMain">
+        <Image
+            Name="myFish1"
+            Width="40"
+            Height="40"
+            Source="Fish.png">
+
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="Window.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimationUsingPath
+                                PathGeometry="{StaticResource myPath1}"
+                                RepeatBehavior="Forever"
+                                Source="Y"
+                                Storyboard.TargetProperty="(Canvas.Top)"
+                                Duration="0:0:2" />
+                            <DoubleAnimationUsingPath
+                                PathGeometry="{StaticResource myPath1}"
+                                RepeatBehavior="Forever"
+                                Source="X"
+                                Storyboard.TargetProperty="(Canvas.Left)"
+                                Duration="0:0:2" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
+        <Image
+            Name="myFish2"
+            Width="40"
+            Height="40"
+            Source="Fish.png">
+
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="Window.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimationUsingPath
+                                PathGeometry="{StaticResource myPath2}"
+                                RepeatBehavior="Forever"
+                                Source="Y"
+                                Storyboard.TargetProperty="(Canvas.Top)"
+                                Duration="0:0:2" />
+                            <DoubleAnimationUsingPath
+                                PathGeometry="{StaticResource myPath2}"
+                                RepeatBehavior="Forever"
+                                Source="X"
+                                Storyboard.TargetProperty="(Canvas.Left)"
+                                Duration="0:0:2" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
+        <Grid Width="356">
+            <Menu Height="20" VerticalAlignment="Top">
+                <MenuItem Header="File">
+                    <MenuItem
+                        Name="newButton"
+                        Click="MenuItem_Click"
+                        Header="New">
+                        <MenuItem.Icon>
+                            <Image Name="newButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="openButton"
+                        Click="MenuItem_Click_1"
+                        Header="Open">
+
+                        <MenuItem.Icon>
+                            <Image Name="openButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="saveButton"
+                        Click="MenuItem_Click_2"
+                        Header="Save">
+                        <MenuItem.Icon>
+                            <Image Name="saveButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem
+                        Name="settingsButton"
+                        Click="settingsButton_Click"
+                        Header="Settings">
+                        <MenuItem.Icon>
+                            <Image Name="settingsButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="exitButton"
+                        Click="MenuItem_Click_5"
+                        Header="Exit">
+                        <MenuItem.Icon>
+                            <Image Name="exitButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+                <MenuItem Header="Plugins">
+                    <MenuItem
+                        Name="runButton"
+                        Click="MenuItem_Click_3"
+                        Header="Run">
+                        <MenuItem.Icon>
+                            <Image Name="runButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem
+                        Name="openPlMenuButton"
+                        Click="MenuItem_Click_4"
+                        Header="Plugins Menu">
+                        <MenuItem.Icon>
+                            <Image Name="menuButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+            </Menu>
+            <Border Padding="5">
+                <StackPanel>
+                    <TextBlock
+                        Height="27"
+                        Margin="0,15"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        FontSize=" 20"
+                        FontWeight="Bold"
+                        Foreground="#FFDDDDE4">
+                        Main Menu
+                    </TextBlock>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+
+                        <Button
+                            Grid.Row="0"
+                            Margin="0,20"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Bottom"
+                            Click="Button_Click_1"
+                            Content="Work with Students" />
+                        <Button
+                            Grid.Row="1"
+                            Margin="0,15"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Bottom"
+                            Click="Button_Click_2"
+                            Content="Work with Groups" />
+
+                        <Button
+                            Grid.Row="2"
+                            Width="102"
+                            Height="29"
+                            Margin="0,30"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Click="Button_Click"
+                            Content="Quit"
+                            RenderTransformOrigin="0.5,0.5">
+                            <Button.RenderTransform>
+                                <RotateTransform x:Name="AnimatedRotateTransform" Angle="0" />
+                            </Button.RenderTransform>
+                            <Button.Triggers>
+                                <EventTrigger RoutedEvent="Button.MouseEnter">
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation
+                                                FillBehavior="Stop"
+                                                Storyboard.TargetName="AnimatedRotateTransform"
+                                                Storyboard.TargetProperty="Angle"
+                                                To="360"
+                                                Duration="0:0:0.5" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger>
+                            </Button.Triggers>
+                        </Button>
+                    </Grid>
+
+                </StackPanel>
+            </Border>
+
+        </Grid>
+    </Canvas>
+</Window>

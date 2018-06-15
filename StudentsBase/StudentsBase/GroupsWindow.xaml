@@ -1,0 +1,270 @@
+﻿<Window
+    x:Class="StudentsBase.GroupsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Groups"
+    Width="800"
+    Height="678.061"
+    Background="Tan"
+    Closed="Window_Closed"
+    KeyUp="Window_KeyUp">
+
+    <Window.Resources>
+        <LinearGradientBrush x:Key="brush" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Offset="0" Color="#FFDE4C3D" />
+            <GradientStop Offset="1" Color="#FF43397E" />
+        </LinearGradientBrush>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="TextWrapping" Value="NoWrap" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="Height" Value="20" />
+            <Setter Property="Width" Value="136" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Foreground" Value="{StaticResource brush}" />
+        </Style>
+
+    </Window.Resources>
+
+    <Border Padding="10">
+        <Grid>
+            <Menu
+                Height="19"
+                Margin="-9,-9,-9,0"
+                VerticalAlignment="Top">
+                <MenuItem Header="File">
+                    <MenuItem
+                        Name="newButton"
+                        Click="MenuItem_Click"
+                        Header="New">
+                        <MenuItem.Icon>
+                            <Image Name="newButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="openButton"
+                        Click="MenuItem_Click_1"
+                        Header="Open">
+                        <MenuItem.Icon>
+                            <Image Name="openButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="saveButton"
+                        Click="MenuItem_Click_2"
+                        Header="Save">
+                        <MenuItem.Icon>
+                            <Image Name="saveButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem
+                        Name="settingsButton"
+                        Click="settingsButton_Click"
+                        Header="Settings">
+                        <MenuItem.Icon>
+                            <Image Name="settingsButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem
+                        Name="exitButton"
+                        Click="MenuItem_Click_5"
+                        Header="Exit" />
+                </MenuItem>
+                <MenuItem Header="Plugins">
+                    <MenuItem
+                        Name="runButton"
+                        Click="MenuItem_Click_3"
+                        Header="Run">
+                        <MenuItem.Icon>
+                            <Image Name="runButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator />
+
+                    <MenuItem
+                        Name="openPlMenuButton"
+                        Click="MenuItem_Click_4"
+                        Header="Plugins Menu">
+                        <MenuItem.Icon>
+                            <Image Name="menuButtonImage" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+            </Menu>
+            <StackPanel
+                Width="148"
+                Height="549"
+                Margin="0,30"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top">
+                <TextBlock
+                    Margin="45,0"
+                    HorizontalAlignment="Center"
+                    FontSize=" 16"
+                    TextDecorations="Underline">
+                    Adding
+                </TextBlock>
+                <TextBlock
+                    Margin="6,5"
+                    FontSize=" 12"
+                    Text="Number of Group:"
+                    TextWrapping="Wrap" />
+                <TextBox
+                    Name="NumberBox"
+                    Width="136"
+                    HorizontalAlignment="Center"
+                    PreviewTextInput="NumberBox_PreviewTextInput"
+                    TextWrapping="Wrap" />
+                <CheckBox
+                    Name="CheckExisting"
+                    Margin="6,10"
+                    Content="Is existing?" />
+                <TextBlock
+                    Margin="6,0"
+                    FontSize=" 12"
+                    Text="Head of the group:"
+                    TextWrapping="Wrap" />
+                <ComboBox x:Name="HeadCombo" Margin="6,0" />
+                <ListView
+                    Name="SubjectGrid"
+                    Height="119"
+                    Margin="6,10"
+                    SelectionChanged="SubjectGrid_SelectionChanged">
+                    <ListView.View>
+                        <GridView>
+                            <GridView.Columns>
+                                <GridViewColumn
+                                    Width="65"
+                                    DisplayMemberBinding="{Binding Path=Subject}"
+                                    Header="Subject" />
+                                <GridViewColumn
+                                    Width="66"
+                                    DisplayMemberBinding="{Binding Path=Name}"
+                                    Header="Teacher" />
+                            </GridView.Columns>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+                <Button
+                    Width="140"
+                    Height="20"
+                    Margin="6,4,0,4"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="Button_Click_4"
+                    Content="Add Subject" />
+                <Button
+                    Name="DeleteSubject"
+                    Width="140"
+                    Height="20"
+                    Margin="6,4,0,4"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="Button_Click_5"
+                    Content="Delete Subject" />
+                <Button
+                    x:Name="Clear_Field"
+                    Width="140"
+                    Height="19"
+                    Margin="6,5,0,5"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Click="Button_Click_6"
+                    Content="Clear Fields" />
+            </StackPanel>
+            <ListView
+                Name="List"
+                Margin="190,30,10,185"
+                MouseDoubleClick="List_MouseDoubleClick"
+                MouseLeftButtonDown="List_MouseLeftButtonDown"
+                SelectionChanged="List_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn
+                                Width="200"
+                                DisplayMemberBinding="{Binding Path=Number}"
+                                Header="Number" />
+                            <GridViewColumn
+                                Width="90"
+                                DisplayMemberBinding="{Binding Path=Actual}"
+                                Header="Does Exist" />
+                            <GridViewColumn
+                                Width="277"
+                                DisplayMemberBinding="{Binding Path=headName}"
+                                Header="Head" />
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+            <Button
+                Name="DeleteButton"
+                Width="159"
+                Height="51"
+                Margin="0,0,209,116"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Click="DeleteButton_Click"
+                Content="Delete Student"
+                IsEnabled="False" />
+            <Button
+                Name="ChangeButton"
+                Width="163"
+                Height="51"
+                Margin="0,0,10,116"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Click="Button_Click_3"
+                Content="Change Information"
+                IsEnabled="False" />
+            <Button
+                Name="SortButton"
+                Width="167"
+                Height="52"
+                Margin="0,0,415,44"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Click="SortButton_Click"
+                Content="Sort Groups by Number" />
+            <Button
+                Name="AddButton"
+                Width="167"
+                Height="51"
+                Margin="0,0,415,116"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Click="Button_Click_1"
+                Content="Add Group" />
+            <TextBlock
+                Width="154"
+                Height="22"
+                Margin="0,0,214,74"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                FontSize=" 11"
+                Text="Search Group by Number:" />
+            <TextBox
+                x:Name="SearchField"
+                Width="154"
+                Height="30"
+                Margin="0,0,214,44"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                PreviewKeyUp="SearchField_PreviewKeyUp" />
+            <Button
+                Name="GroupButton"
+                Width="163"
+                Height="52"
+                Margin="0,0,10,44"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Click="GroupButton_Click"
+                Content="Sort Groups by Actuality" />
+
+        </Grid>
+    </Border>
+
+</Window>

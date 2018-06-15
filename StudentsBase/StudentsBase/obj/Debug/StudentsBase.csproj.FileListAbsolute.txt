@@ -1,0 +1,200 @@
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojResolveAssemblyReference.cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.Cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CoreCompileInputs.cache
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+C:\Users\Bekwa\Desktop\StudentsBase\StudentsBase\bin\Debug\System.IO.Compression.dll
+D:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+D:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+D:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+D:\isp\StudentsBase\StudentsBase\bin\Debug\System.IO.Compression.dll
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojResolveAssemblyReference.cache
+D:\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+D:\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.Cache
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CoreCompileInputs.cache
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+D:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
+D:\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.g.cs
+D:\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.baml
+E:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
+E:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+E:\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+E:\isp\StudentsBase\StudentsBase\bin\Debug\Library.dll
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojResolveAssemblyReference.cache
+E:\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+E:\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+E:\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.Cache
+D:\isp\StudentsBase\StudentsBase\bin\Debug\Library.dll
+E:\флешка\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+E:\флешка\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+E:\флешка\isp\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+E:\флешка\isp\StudentsBase\StudentsBase\bin\Debug\Library.dll
+E:\флешка\isp\StudentsBase\StudentsBase\bin\Debug\System.IO.Compression.dll
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojResolveAssemblyReference.cache
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\Plugins.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.Cache
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CoreCompileInputs.cache
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.baml
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.g.cs
+E:\флешка\isp\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Debug\Library.dll
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Debug\System.IO.Compression.dll
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojResolveAssemblyReference.cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\Plugins.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\Plugins.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.Cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CoreCompileInputs.cache
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.StudentsBaseResources.resources
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\SettingsWindow.baml
+E:\Треш\Универ\Третий сем\Исп\Проект\StudentsBase\StudentsBase\obj\Debug\SettingsWindow.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe.config
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.exe
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\bin\Debug\StudentsBase.pdb
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\bin\Debug\Library.dll
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\bin\Debug\System.IO.Compression.dll
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csprojAssemblyReference.cache
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\MainMenu.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\Plugins.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\SettingsWindow.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfo.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupsWindow.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\MainMenu.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\newMark.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\newSubject.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\Plugins.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\SettingsWindow.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfo.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsWindow.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\App.g.cs
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.cache
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase_MarkupCompile.lref
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfo.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\GroupInfoPage.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\newMark.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\newSubject.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfo.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentInfoPage.baml
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.g.resources
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.Properties.Resources.resources
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.StudentsBaseResources.resources
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.GenerateResource.cache
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CoreCompileInputs.cache
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.csproj.CopyComplete
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.exe
+C:\Users\Блейдденсер\Desktop\Проект\StudentsBase\StudentsBase\obj\Debug\StudentsBase.pdb
